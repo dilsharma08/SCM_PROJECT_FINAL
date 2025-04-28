@@ -57,7 +57,7 @@ p {
   margin: 40px 0;
 }
 button.normal {
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 600;
   padding: 15px 30px;
   color: #000;
@@ -66,11 +66,11 @@ button.normal {
   cursor: pointer;
   border: none;
   outline: none;
-  transition: 0.2s;
+  transition: 0.3s;
 }
 
 button.white {
-  font-size: 13px;
+  font-size: 14px;
   font-weight: 600;
   padding: 11px 18px;
   color: #fff;
@@ -116,7 +116,7 @@ body {
 
 #navbar li a {
     text-decoration: none;
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 600;
     color: #1a1a1a;
     transition: 0.3s ease;
