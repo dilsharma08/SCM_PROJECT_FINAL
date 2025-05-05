@@ -39,9 +39,9 @@ toggleBtn.addEventListener('click', () => {
   document.body.classList.toggle('dark-mode');
 
   if (document.body.classList.contains('dark-mode')) {
-    toggleBtn.textContent = '☀️ Light Mode';
+    toggleBtn.textContent = '☀️';
   } else {
-    toggleBtn.textContent = '🌙 Dark Mode';
+    toggleBtn.textContent = '🌙';
   }
 });
 const darkModeToggle = document.getElementById('darkModeToggle');
