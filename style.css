@@ -172,7 +172,7 @@ body.dark-mode footer {
 /* Home Page  */
 
 #hero{
-    background-image: url("img/hero4.png");
+    background-image: url("hero4.png");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -192,7 +192,7 @@ body.dark-mode footer {
 }
 
 #hero button{
-    background-image: url("img/button.png");
+    background-image: url("button.png");
     background-color: transparent;
     color: #088178;
     border: none;
@@ -340,7 +340,7 @@ body.dark-mode footer {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url("img/Banner/b2.jpg");
+  background-image: url("banner.png");
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -348,23 +348,23 @@ body.dark-mode footer {
 }
 
 #banner h4{
-  color: #fff;
+  color: #ab9393;
   font-size: 16px;
 }
 
 #banner h2{
-  color: #fff;
+  color: #ce1414;
   font-size: 30px;
   padding: 10px 0;
 }
 
 #banner h2 span {
-  color: #ef3636;
+  color: #480808;
 }
 
 #banner button:hover{
   background-color: #088178;
-  color: #fff;
+  color: #ffffff;
 }
 
 #sm-banner {
@@ -378,7 +378,7 @@ body.dark-mode footer {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("img/Banner/b17.jpg");
+  background-image: url("b17.jpg");
   min-width: 580px;
   height: 50vh;
   background-size: cover;
@@ -386,23 +386,23 @@ body.dark-mode footer {
   padding: 30px;
 }
 #sm-banner .banner-box2 {
-  background-image: url("img/Banner/b10.jpg");
+  background-image: url("b10.jpg");
 }
 
 #sm-banner h4 {
-  color: #fff;
+  color: #088178;
   font-size: 20px;
   font-weight: 300;
 }
 
 #sm-banner h2 {
-  color: #fff;
+  color: #9fddde;
   font-size: 28px;
   font-weight: 800;
 }
 
 #sm-banner span {
-  color: #fff;
+  color: #c1adad;
   font-size: 14px;
   font-weight: 500;
   padding-bottom: 15px;
@@ -425,7 +425,7 @@ body.dark-mode footer {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  background-image: url("img/Banner/b7.jpg");
+  background-image: url("b7.jpg");
   min-width: 30%;
   height: 30vh;
   background-size: cover;
@@ -435,15 +435,15 @@ body.dark-mode footer {
 }
 
 #banner3 .banner-box2 {
-  background-image: url("img/Banner/b4.jpg");
+  background-image: url("b4.jpg");
 }
 
 #banner3 .banner-box3 {
-  background-image: url("img/Banner/b18.jpg");
+  background-image: url("b18.jpg");
 }
 
 #banner3 h2 {
-  color: #fff;
+  color: #b19f9f;
   font-weight: 900;
   font-size: 22px;
 }
@@ -459,7 +459,7 @@ body.dark-mode footer {
   justify-content: space-between;
   flex-wrap: wrap;
   align-items: center;
-  background-image: url("img/Banner/b14.png");
+  background-image: url("");
   background-repeat: no-repeat;
   background-position: 20% 30%;
   background-color: #041e42;
