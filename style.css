@@ -347,23 +347,23 @@ body.dark-mode footer {
 }
 
 #banner h4{
-  color: #ab9393;
+  color: #fff;
   font-size: 16px;
 }
 
 #banner h2{
-  color: #ce1414;
+  color: #fff;
   font-size: 30px;
   padding: 10px 0;
 }
 
 #banner h2 span {
-  color: #480808;
+  color: #ef3636;
 }
 
 #banner button:hover{
   background-color: #088178;
-  color: #ffffff;
+  color: #fff;
 }
 
 #sm-banner {
@@ -389,19 +389,19 @@ body.dark-mode footer {
 }
 
 #sm-banner h4 {
-  color: #088178;
+  color: #fff;
   font-size: 20px;
   font-weight: 300;
 }
 
 #sm-banner h2 {
-  color: #9fddde;
+  color: #fff;
   font-size: 28px;
   font-weight: 800;
 }
 
 #sm-banner span {
-  color: #c1adad;
+  color: #fff;
   font-size: 14px;
   font-weight: 500;
   padding-bottom: 15px;
@@ -442,7 +442,7 @@ body.dark-mode footer {
 }
 
 #banner3 h2 {
-  color: #b19f9f;
+  color: #fff;
   font-weight: 900;
   font-size: 22px;
 }
@@ -554,7 +554,6 @@ h1, h2, h4, h6, p, a {
   transform: scale(0.95); /* Slight shrink effect on click */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Reduced shadow on click */
 }
-
 
 /* Override for dark mode */
 body.dark-mode {
